@@ -1,4 +1,15 @@
-* {
+/* * {
     color: blue;
     background-color: darkgrey;
+}
+ */
+
+
+/* 
+.ng-invalid:not(form).ng-touched {
+    border: 1px red solid;
+} */
+
+.input-invalid {
+    border: 1px red solid;
 }
